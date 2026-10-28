@@ -9,7 +9,7 @@
 * use vite for assembly
 
 ## Tests
-* Only feature tests (mock backend response backend is in path ~/project/talks-api)
+* Only feature tests (mock backend response backend is in path ~/project/tasks-api)
 * unit tests forbidden
 
 ## Boundaries
